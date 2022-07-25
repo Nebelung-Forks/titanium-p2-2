@@ -1,7 +1,7 @@
 # titanium-p2
 P2 site code, people wanted this to be released for a while so I'm doing it.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/titanium-p2)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Titanium-Network/titanium-p2)
 
 # Local Alloy Proxy
 
@@ -19,7 +19,7 @@ run "screen npm start" and the site is live.
 
 visit http://DOMAIN.COM:8080/ to view your site (NPM runs on 8080 by default, you can fix this with iptables if you wish)
 
-For more information on Alloy Proxy. Please visit https://github.com/titaniumnetwork-dev/alloyproxy/blob/master/README.md
+For more information on Alloy Proxy. Please visit https://github.com/Titanium-Network/alloyproxy/blob/master/README.md
 
 # Customize this site as your own!
 Maintainers will need to check all pages of this website and remove the following (not limited to this list) words, and replace them with their own terms:
