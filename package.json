@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/alloyproxy.git"
+    "url": "git+https://github.com/Titanium-Network/alloyproxy.git"
   },
   "keywords": [
     "web-proxy"
   ],
-  "author": "titaniumnetwork-dev",
+  "author": "Titanium-Network",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/titaniumnetwork-dev/alloyproxy/issues"
+    "url": "https://github.com/Titanium-Network/alloyproxy/issues"
   },
-  "homepage": "https://github.com/titaniumnetwork-dev/alloyproxy#readme",
+  "homepage": "https://github.com/Titanium-Network/alloyproxy#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
